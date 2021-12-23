@@ -10,7 +10,7 @@ On your `*.md` page add `{{< graphcomment >}}` where the comments should show.
 
 In your `config.toml` add your graphcomment ID: 
 
-`[params]  
-graphcommentId = "YOUR-ID-HERE"`
+`[params]`
+`graphcommentId = "YOUR-ID-HERE"`
 
 You can also import comments from Wordpress (only with the Wordpress app though), moderate comments on the graphcomment.com website. Their SPAM protection also works nicely.
